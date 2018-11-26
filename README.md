@@ -15,3 +15,7 @@ Some random comment regarding Deployment
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+Some comment regarding how to contribute.
+
+Additional comment on how to contribute.
