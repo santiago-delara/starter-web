@@ -18,7 +18,7 @@ Sample website with plenty of files for demos
 
 Some comment regarding how to contribute.
 
-Additional comment on how to contribute.
+Please fork this repository and then issue pull request for review.
 
 ## Copyright
 
