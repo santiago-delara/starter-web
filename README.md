@@ -8,6 +8,8 @@ Some random intro
 
 ## Deployment
 
+Some random comment regarding Deployment
+
 ## Purpose
 
 Sample website with plenty of files for demos
