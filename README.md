@@ -22,4 +22,4 @@ Please fork this repository and then issue pull request for review.
 
 ## Copyright
 
-2018 santiago-delara
+2018 santiago-delara. All rights reserved
